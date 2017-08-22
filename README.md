@@ -18,7 +18,8 @@ html {font-size:43px;}<br/>
 @media screen and (min-width: 360px){
     html{font-size:48px;}
 }<br/>
-@media screen and (min-width:375px) {   //iPhone6s尺寸,375,1rem=50px,设计稿为750,1rem=100px
+//iPhone6s尺寸,375,1rem=50px,设计稿为750,1rem=100px<br/>
+@media screen and (min-width:375px) {   
     html {font-size: 50px;}
 }<br/>
 @media screen and (min-width:414px) {
